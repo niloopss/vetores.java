@@ -24,8 +24,4 @@ public class vetor {
     }
 }
 
-/*
-*vogais = a,e,i,o,u
-* else = consoantes
-* */
 
